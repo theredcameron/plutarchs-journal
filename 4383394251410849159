@@ -179,7 +179,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	                      <label>&#916;
 	                       <textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea>
 	                      </label>
-	                      <input type="hidden" id="ak_js_1" name="ak_js" value="96"/>
+	                      <input type="hidden" id="ak_js_1" name="ak_js" value="233"/>
 	                      <script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script>
 	                     </p>
 	                    </form>
@@ -340,7 +340,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	                            <label>&#916;
 	                             <textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea>
 	                            </label>
-	                            <input type="hidden" id="ak_js_2" name="ak_js" value="205"/>
+	                            <input type="hidden" id="ak_js_2" name="ak_js" value="228"/>
 	                            <script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script>
 	                           </p>
 	                          </form>
@@ -407,7 +407,7 @@ jQuery(document).ready(function($) {
 	                   <script type='text/javascript' id='bundleJS-js-extra'>
 /* 
 	                    <![CDATA[ */
-var globalVars = {"templateDirectory":"https:\/\/www.johnkellner.com\/wp-content\/themes\/kellner-co-theme","visitorIP":"154.6.17.142"};
+var globalVars = {"templateDirectory":"https:\/\/www.johnkellner.com\/wp-content\/themes\/kellner-co-theme","visitorIP":"216.73.161.211"};
 /* ]]> */
 </script>
 	                   <script type='text/javascript' src='https://www.johnkellner.com/wp-content/themes/kellner-co-theme/public/js/bundle.min.js' id='bundleJS-js'></script>
