@@ -40,8 +40,8 @@ https://vote4varela.com/endorsements
 	       <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
 	       <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
 	       <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3510d254831f82f3a4011-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3510d254831f82f3a4011-min.en-US.js" defer ></script>
+	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-21c8a45be1ee66b1395b4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-21c8a45be1ee66b1395b4-min.en-US.js" defer ></script>
 	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js" defer ></script>
 	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a99bfd704f08d86ca2c5f-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
@@ -50,11 +50,11 @@ https://vote4varela.com/endorsements
 	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1f7107f1c77c3d102a5a3-min.en-US.js" defer ></script>
 	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-314e3ba362f43d3dcdd1e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
 	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-314e3ba362f43d3dcdd1e-min.en-US.js" defer ></script>
-	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-82420b8f38b0e5597a3ae-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-82420b8f38b0e5597a3ae-min.en-US.js" defer ></script>
+	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-062c1ad517ea590fff456-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-062c1ad517ea590fff456-min.en-US.js" defer ></script>
 	       <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-a7275ace6fdd990fb251c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
 	       <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-a7275ace6fdd990fb251c-min.en-US.js" defer ></script>
-	       <script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-a129a2e81c4e2349b33e6-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-419ad4471edba61cd9401-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0bfe2776424277169f9eb-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90a12ef6da909baaa20f6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-af11dd149673eb653378c-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-2474dc7bfa7d1cebae461-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-26a75448447f78df5e394-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c88557da059cf1285ce04-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-743f3696bbee5eb24c745-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5583388b2261111c2242f-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7ea051eb85c409d5aa5b9-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-658f69229e7b918ee0c85-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-aa799cfa9a688acf71d81-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-56fbe66b753a4da2df336-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-225c7709a4e33a106e569-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d0256e9747ffb47f23f46-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5d6c4f164c4ab5457107a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-8dd30bd9ca44976972b82-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-745c2f9967b9bf916d9ce-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0a150d6ffbe3607f26341-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-146500fdaacd6320fa6dd-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-1ba8fbb119237da52a76a-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-ecdec02b323f75be15719-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-b505ae8acd48187f16c58-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e44c95059f465433b1241-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-7d6317e82c9adfad7922e-min.en-US.js"}},"pageType":2,"website":{"id":"607f74684e662821bf1519e1","identifier":"flugelhorn-oboe-2w6z","websiteType":1,"contentModifiedOn":1661658022145,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Denver","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"MDT","siteTitle":"Stephen Varela for SD3","fullSiteTitle":"Endorsements \u2014 Stephen Varela for SD3","siteDescription":"","logoImageId":"629bbbe82e278f3981445228","mobileLogoImageId":"629bbc0680d37e1a42e96a9c","socialLogoImageId":"62c5f5941ea0e054e3273851","shareButtonOptions":{"6":true,"3":true,"2":true,"1":true,"7":true,"4":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/afbfa830-ed08-40c6-ac25-f16ea9b5f95e/croping91.png","mobileLogoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/afbfa830-ed08-40c6-ac25-f16ea9b5f95e/croping91.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/de4467d5-8f7c-4a84-aff5-26dad54459d1/Varela-38-Edit-2.JPG","authenticUrl":"https://vote4varela.com","internalUrl":"https://flugelhorn-oboe-2w6z.squarespace.com","baseUrl":"https://vote4varela.com","primaryDomain":"vote4varela.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":62,"screenname":"Twitter","addedOn":1618965608295,"profileUrl":"https://twitter.com/vote4varela","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":60,"addedOn":1618965608305,"profileUrl":"https://www.facebook.com/vote4varela","iconEnabled":true,"serviceName":"facebook-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"7848f19f14d879dc2d9379c2894ef15898dc1a61237a537185549977f011c50b","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"607f74684e662821bf1519e4","websiteId":"607f74684e662821bf1519e1","subjects":[],"country":"US","state":"MT","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":30,"enableMobile":true,"enabledPages":["607f8b6dfaf26f0f438b8c0d"],"showOnAllPages":false,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayNativeProductReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"productReviewsMerchantEmailEnabled":false,"hasOptedToCollectNativeReviews":true},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Endorsements","id":"630ad4737a8566065eef1e85","fullUrl":"/endorsements","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"212px","header-mobile-logo-max-height":"106px","header-vert-padding":"1vw","header-width":"Inset","maxPageWidth":"1200px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"5px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"0.90s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["collection_typename_switching","marketing_landing_page","background_image_effect_options","background_art_onboarding","block_annotations_revamp","crm_remove_subscriber","reduce_general_search_api_traffic","commerce_etsy_product_import","member_areas_spanish_interviews","fluid_engine","asset_uploader_refactor","crm_show_subscriber_import_in_profiles","viewer-role-contributor-invites","scheduling_block_schema_editor","campaigns_thumbnail_layout","supports_versioned_template_assets","scripts_defer","override_block_styles","themes","commerce_visitor_cldr_currency_formatter","new_stacked_index","commerce_order_status_access","member_areas_schedule_interview","campaigns_asset_picker","fluid_engine_block_centering","campaigns_new_subscriber_search","commerce_etsy_shipping_import","customer_account_creation_recaptcha","commerce_restock_notifications","crm_default_newsletter_block_to_campaigns","send_local_pickup_ready_email","commerce_site_visitor_metrics","campaigns_content_editing_survey","site_header_footer","campaigns_global_uc_ab","css_var_color_themes","customer_accounts_email_verification","nested_categories","nested_categories_migration_enabled","commerce_clearpay"],"videoAssetsFeatureFlags":[],"impersonatedSession":false,"tzData":{"zones":[[-420,"US","M%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script>
+	       <script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-a129a2e81c4e2349b33e6-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-419ad4471edba61cd9401-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0bfe2776424277169f9eb-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90a12ef6da909baaa20f6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-af11dd149673eb653378c-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-2474dc7bfa7d1cebae461-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-26a75448447f78df5e394-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c88557da059cf1285ce04-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-743f3696bbee5eb24c745-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5583388b2261111c2242f-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7ea051eb85c409d5aa5b9-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-658f69229e7b918ee0c85-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-aa799cfa9a688acf71d81-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-56fbe66b753a4da2df336-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-225c7709a4e33a106e569-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d0256e9747ffb47f23f46-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5d6c4f164c4ab5457107a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-558ec4ccf648c17e90da5-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-745c2f9967b9bf916d9ce-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0a150d6ffbe3607f26341-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-146500fdaacd6320fa6dd-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-1ba8fbb119237da52a76a-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-ecdec02b323f75be15719-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-b505ae8acd48187f16c58-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e44c95059f465433b1241-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-7d6317e82c9adfad7922e-min.en-US.js"}},"pageType":2,"website":{"id":"607f74684e662821bf1519e1","identifier":"flugelhorn-oboe-2w6z","websiteType":1,"contentModifiedOn":1661658022145,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Denver","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"MDT","siteTitle":"Stephen Varela for SD3","fullSiteTitle":"Endorsements \u2014 Stephen Varela for SD3","siteDescription":"","logoImageId":"629bbbe82e278f3981445228","mobileLogoImageId":"629bbc0680d37e1a42e96a9c","socialLogoImageId":"62c5f5941ea0e054e3273851","shareButtonOptions":{"7":true,"3":true,"4":true,"2":true,"6":true,"1":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/afbfa830-ed08-40c6-ac25-f16ea9b5f95e/croping91.png","mobileLogoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/afbfa830-ed08-40c6-ac25-f16ea9b5f95e/croping91.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/de4467d5-8f7c-4a84-aff5-26dad54459d1/Varela-38-Edit-2.JPG","authenticUrl":"https://vote4varela.com","internalUrl":"https://flugelhorn-oboe-2w6z.squarespace.com","baseUrl":"https://vote4varela.com","primaryDomain":"vote4varela.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":62,"screenname":"Twitter","addedOn":1618965608295,"profileUrl":"https://twitter.com/vote4varela","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":60,"addedOn":1618965608305,"profileUrl":"https://www.facebook.com/vote4varela","iconEnabled":true,"serviceName":"facebook-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"7848f19f14d879dc2d9379c2894ef15898dc1a61237a537185549977f011c50b","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"607f74684e662821bf1519e4","websiteId":"607f74684e662821bf1519e1","subjects":[],"country":"US","state":"MT","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":30,"enableMobile":true,"enabledPages":["607f8b6dfaf26f0f438b8c0d"],"showOnAllPages":false,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayNativeProductReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"productReviewsMerchantEmailEnabled":false,"hasOptedToCollectNativeReviews":true},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Endorsements","id":"630ad4737a8566065eef1e85","fullUrl":"/endorsements","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"212px","header-mobile-logo-max-height":"106px","header-vert-padding":"1vw","header-width":"Inset","maxPageWidth":"1200px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"5px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"0.90s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["reduce_general_search_api_traffic","scripts_defer","override_block_styles","send_local_pickup_ready_email","commerce_site_visitor_metrics","marketing_landing_page","block_annotations_revamp","customer_account_creation_recaptcha","themes","campaigns_global_uc_ab","fluid_engine","crm_show_subscriber_import_in_profiles","fluid_engine_block_centering","member_areas_schedule_interview","commerce_order_status_access","site_header_footer","campaigns_content_editing_survey","new_stacked_index","crm_default_newsletter_block_to_campaigns","crm_remove_subscriber","commerce_restock_notifications","nested_categories_migration_enabled","customer_accounts_email_verification","commerce_visitor_cldr_currency_formatter","background_image_effect_options","viewer-role-contributor-invites","campaigns_asset_picker","scheduling_block_schema_editor","commerce_etsy_shipping_import","nested_categories","member_areas_spanish_interviews","asset_uploader_refactor","commerce_clearpay","supports_versioned_template_assets","campaigns_thumbnail_layout","campaigns_new_subscriber_search","commerce_etsy_product_import","block_duplication","css_var_color_themes","collection_typename_switching","background_art_onboarding"],"videoAssetsFeatureFlags":[],"impersonatedSession":false,"tzData":{"zones":[[-420,"US","M%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script>
 	       <script type="application/ld+json">{"url":"https://vote4varela.com","name":"Stephen Varela for SD3","description":"","image":"//images.squarespace-cdn.com/content/v1/607f74684e662821bf1519e1/afbfa830-ed08-40c6-ac25-f16ea9b5f95e/croping91.png","@context":"http://schema.org","@type":"WebSite"}</script>
 	       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/607f74684e662821bf1519e1/48/5c5a519771c10ba3470d8101/607f74684e662821bf1519fb/1281/site.css"/>
 	       <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -10362,140 +10362,140 @@ https://vote4varela.com/endorsements
   "
   data-controller="Header"
   data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;href&quot;: &quot;/contribute&quot;,
-        &quot;buttonText&quot;: &quot;Contribute&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: true,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;cart&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;stroke-1&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;
-      },
-      &quot;showButton&quot;: true,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: true,
-      &quot;headerStyle&quot;: &quot;dynamic&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 1.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;showPromotedElement&quot;: false
-    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/contribute&quot;,
+&quot;buttonText&quot;: &quot;Contribute&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme=""
   data-menu-overlay-theme=""
   data-header-style="dynamic"
   data-language-picker="{
-      &quot;enabled&quot;: false,
-      &quot;iconEnabled&quot;: false,
-      &quot;iconType&quot;: &quot;globe&quot;,
-      &quot;flagShape&quot;: &quot;shiny&quot;,
-      &quot;languageFlags&quot;: [ ]
-    }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -10952,129 +10952,129 @@ https://vote4varela.com/endorsements
     
     "
     data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;href&quot;: &quot;/contribute&quot;,
-        &quot;buttonText&quot;: &quot;Contribute&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: true,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;cart&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;stroke-1&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;
-      },
-      &quot;showButton&quot;: true,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: true,
-      &quot;headerStyle&quot;: &quot;dynamic&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 1.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;showPromotedElement&quot;: false
-    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/contribute&quot;,
+&quot;buttonText&quot;: &quot;Contribute&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -11218,25 +11218,25 @@ https://vote4varela.com/endorsements
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-      &quot;imageOverlayOpacity&quot;: 0.15,
-      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-      &quot;customSectionHeight&quot;: 10,
-      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-      &quot;customContentWidth&quot;: 50,
-      &quot;backgroundColor&quot;: &quot;&quot;,
-      &quot;sectionTheme&quot;: &quot;&quot;,
-      &quot;sectionAnimation&quot;: &quot;none&quot;,
-      &quot;backgroundMode&quot;: &quot;image&quot;
-    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;backgroundColor&quot;: &quot;&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-      &quot;video&quot;: null,
-      &quot;backgroundImageId&quot;: null,
-      &quot;backgroundMediaEffect&quot;: null,
-      &quot;typeName&quot;: &quot;page&quot;
-    }"
+&quot;video&quot;: null,
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
   data-animation="none"
   data-fluid-engine-section
    
@@ -12236,30 +12236,30 @@ https://vote4varela.com/endorsements
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-      &quot;imageOverlayOpacity&quot;: 0.15,
-      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-      &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
-      &quot;customSectionHeight&quot;: 10,
-      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-      &quot;customContentWidth&quot;: 100,
-      &quot;sectionTheme&quot;: &quot;light-bold&quot;,
-      &quot;sectionAnimation&quot;: &quot;none&quot;,
-      &quot;backgroundMode&quot;: &quot;image&quot;
-    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;light-bold&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-      &quot;video&quot;: {
-        &quot;playbackSpeed&quot;: 0.5,
-        &quot;filter&quot;: 1,
-        &quot;filterStrength&quot;: 0,
-        &quot;zoom&quot;: 0,
-        &quot;videoSourceProvider&quot;: &quot;none&quot;
-      },
-      &quot;backgroundImageId&quot;: null,
-      &quot;backgroundMediaEffect&quot;: null,
-      &quot;typeName&quot;: &quot;page&quot;
-    }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
   data-animation="none"
   
    
