@@ -499,14 +499,14 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 	                 <link id='uc_assets_uc_animated_hamburger_icon_uc_animated_hamburger_icon_css-css' href='https://buckforcolorado.com/wp-content/uploads/ac_assets/uc_animated_hamburger_icon/uc_animated_hamburger_icon.css' type='text/css' rel='stylesheet' >
 	                  <style type="text/css">/* widget: Animated Hamburger Icon */
 
-#uc_animated_hamburger_icon_elementor15780.uc_animated_hamburger_icon_holder{ position: relative; z-index: 1000000000000px;}
-#uc_animated_hamburger_icon_elementor15780 .uc_hamburger{ display: inline-block;  }
-#uc_animated_hamburger_icon_elementor15780 .uc_animated_hamburger_icon {
+#uc_animated_hamburger_icon_elementor17645.uc_animated_hamburger_icon_holder{ position: relative; z-index: 1000000000000px;}
+#uc_animated_hamburger_icon_elementor17645 .uc_hamburger{ display: inline-block;  }
+#uc_animated_hamburger_icon_elementor17645 .uc_animated_hamburger_icon {
   	text-align: right;
 }
 
 </style>
-	                  <div class="uc_animated_hamburger_icon_holder" id="uc_animated_hamburger_icon_elementor15780" style="text-align: right;">
+	                  <div class="uc_animated_hamburger_icon_holder" id="uc_animated_hamburger_icon_elementor17645" style="text-align: right;">
 	                   <a id="hamburger_close_trigger" class='uc-icon-close-trigger' href="javascript:void(0)" style='display:none'>Close Trigger</a>
 	                   <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE2NyIsInRvZ2dsZSI6ZmFsc2V9"  class="uc_animated_hamburger_icon">
 	                    <div class="uc_hamburger" id="hamburger-1">
@@ -2312,8 +2312,8 @@ gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://buckforcolor
 	                           </p>
 	                           <p>Phone: 970-549-8808</p>
 	                           <p>Email: 
-	                            <a href="/cdn-cgi/l/email-protection#076e696168476572646c61687564686b68756663682964686a">
-	                             <span class="__cf_email__" data-cfemail="a5cccbc3cae5c7d0c6cec3cad7c6cac9cad7c4c1ca8bc6cac8">[email&#160;protected]</span>
+	                            <a href="/cdn-cgi/l/email-protection#127b7c747d5270677179747d60717d7e7d6073767d3c717d7f">
+	                             <span class="__cf_email__" data-cfemail="f39a9d959cb391869098959c81909c9f9c8192979cdd909c9e">[email&#160;protected]</span>
 	                            </a>
 	                           </p>
 	                          </div>
@@ -2711,9 +2711,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 // Animated Hamburger Icon scripts: 
 jQuery(document).ready(function(){
    
-  var objIcon = jQuery("#uc_animated_hamburger_icon_elementor15780");
+  var objIcon = jQuery("#uc_animated_hamburger_icon_elementor17645");
   
-  var objLink = jQuery("#uc_animated_hamburger_icon_elementor15780 .uc_animated_hamburger_icon");
+  var objLink = jQuery("#uc_animated_hamburger_icon_elementor17645 .uc_animated_hamburger_icon");
   
   var link = objLink.prop("href");
   link = decodeURIComponent(link);
@@ -2721,7 +2721,7 @@ jQuery(document).ready(function(){
   var isPopupAction = (link.indexOf("elementor-action:action=popup") != -1);
   
   var objLinkCloseTrigger = objIcon.find(".uc-icon-close-trigger");
-  var objHamburger = jQuery("#uc_animated_hamburger_icon_elementor15780 .uc_hamburger");
+  var objHamburger = jQuery("#uc_animated_hamburger_icon_elementor17645 .uc_hamburger");
   
   objLinkCloseTrigger.on("click", function(){
 	 objHamburger.removeClass("is-active");
