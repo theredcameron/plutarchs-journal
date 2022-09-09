@@ -1,0 +1,280 @@
+https://laurenforcolorado.com/
+
+
+	
+	<!doctype html>
+	<html xmlns=http://www.w3.org/1999/xhtml lang=en>
+	 <head>
+	  <meta name=generator content="Hugo 0.74.3">
+	   <meta charset=utf-8>
+	    <meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1">
+	     <meta property="og:type" content="website">
+	      <title>Standing for Freedom | Lauren Boebert</title>
+	      <meta name=twitter:title content="Standing for Freedom | Lauren Boebert">
+	       <meta property="og:title" content="Standing for Freedom | Lauren Boebert">
+	        <meta property="og:site_name" content="Standing for Freedom | Lauren Boebert">
+	         <meta name=description content="Pro-Freedom, Pro-Guns, Pro-Constitution.">
+	          <meta property="og:description" content="Pro-Freedom, Pro-Guns, Pro-Constitution.">
+	           <meta name=twitter:description content="Pro-Freedom, Pro-Guns, Pro-Constitution.">
+	            <meta property="og:url" content="/">
+	             <meta name=twitter:url content="/">
+	              <meta property="og:image" content="/img/og-img.png">
+	               <meta property="twitter:image" content="/img/og-img.png">
+	                <meta property="og:image:width" content="1200">
+	                 <meta property="og:image:height" content="628">
+	                  <meta name=twitter:card content="summary_large_image">
+	                   <meta name=twitter:site content="@laurenboebert">
+	                    <meta name=twitter:creator content="@laurenboebert">
+	                     <link rel=stylesheet href=https://use.typekit.net/ngm6ela.css>
+	                      <link rel=stylesheet href=https://use.fontawesome.com/releases/v5.8.2/css/all.css>
+	                       <link rel=stylesheet href=/css/style.min.css media=screen>
+	                        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PPSB49RBP"></script>
+	                        <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-1PPSB49RBP');</script>
+	                        <script src=https://identity.netlify.com/v1/netlify-identity-widget.js></script>
+	                       </head>
+	                       <body id=home>
+	                        <div id=preloader>
+	                         <div id=status>&nbsp;</div>
+	                        </div>
+	                        <a id=lightbox-trigger data-fancybox data-src=#lightbox href=javascript:;></a>
+	                        <header class=flex>
+	                         <div id=headerLogo class="animated fadeInLeft">
+	                          <a href=/>
+	                          <img src=/img/logo.svg alt="Lauren Boebert Logo"></a>
+	                         </div>
+	                         <div id=headerRight class="flex animated fadeInRight delay-1">
+	                          <nav>
+	                           <a href=javascript:void(0) id=toggle-menu>
+	                            <i class="fa fa-bars"></i>&nbsp; Menu
+	                           </a>
+	                           <ul>
+	                            <li class="menu-item current-menu-item">
+	                             <a title=Home href=/>Home
+	                            </a>
+	                           </li>
+	                           <li class=menu-item>
+	                            <a title="About Lauren" href=/about/>About Lauren
+	                           </a>
+	                          </li>
+	                          <li class=menu-item>
+	                           <a title=News href=/news/>News
+	                          </a>
+	                         </li>
+	                         <li class=menu-item>
+	                          <a title=Media href=/media/>Media
+	                         </a>
+	                        </li>
+	                        <li class=menu-item>
+	                         <a title="Get Involved" href=/get-involved/>Get Involved
+	                        </a>
+	                       </li>
+	                       <li class=menu-item>
+	                        <a title=store href=https://secure.winred.com/lauren-boebert-for-congress/storefront/>store
+	                       </a>
+	                      </li>
+	                     </ul>
+	                    </nav>
+	                    <div id=headerSocial>
+	                     <ul class=social-share>
+	                      <li class=social>
+	                       <a href=http://facebook.com/laurenboebert target=_blank>
+	                        <i class="fab fa-facebook" aria-hidden=true title="facebook link"></i>
+	                        <span class=sr-only>Facebook</span>
+	                       </a>
+	                      </li>
+	                      <li class=social>
+	                       <a href=http://twitter.com/laurenboebert target=_blank>
+	                        <i class="fab fa-twitter" aria-hidden=true title="twitter link"></i>
+	                        <span class=sr-only>Twitter</span>
+	                       </a>
+	                      </li>
+	                      <li class=social>
+	                       <a href=https://www.instagram.com/laurenboebert/ target=_blank>
+	                        <i class="fab fa-instagram" aria-hidden=true title="instagram link"></i>
+	                        <span class=sr-only>Instagram</span>
+	                       </a>
+	                      </li>
+	                     </ul>
+	                    </div>
+	                    <div id=headerDonate>
+	                     <a href=/donate class=button>Donate</a>
+	                    </div>
+	                   </div>
+	                  </header>
+	                  <section id=banner>
+	                   <div class=container>
+	                    <div class="row justify-content-end">
+	                     <div class="col col-12 col-md-7 text-center animated fadeInDown delay-2">
+	                      <h1>Standing 
+	                       <span class=text-highlight>for FREEDOM</span>
+	                      </h1>
+	                      <div class=bannerTagline>Pro-Freedom, Pro-Guns, Pro-Constitution.</div>
+	                      <div class=bannerBtn>
+	                       <a href=#signup class="button hollow big">Join Us</a>
+	                      </div>
+	                     </div>
+	                    </div>
+	                   </div>
+	                  </section>
+	                  <section id=signup>
+	                   <div class=container data-aos=fade-down>
+	                    <h3 class="signupTitle text-center">Join Us</h3>
+	                    <form accept-charset=utf-8 action=https://usebasin.com/f/63289e90efc8 method=post class="row flex">
+	                     <input type=hidden name=utm_source>
+	                      <input type=hidden name=utm_medium>
+	                       <input type=hidden name=utm_campaign>
+	                        <div class="col col-12 col-md-2 labelToggle signupName">
+	                         <label for=first_name>First Name*</label>
+	                         <input type=text id=first_name class=formField name=first_name placeholder="ex. John or Jane" required></div>
+	                         <div class="col col-12 col-md-2 labelToggle signupName">
+	                          <label for=last_name>Last Name*</label>
+	                          <input type=text id=last_name class=formField name=last_name placeholder=Doe required></div>
+	                          <div class="col col-12 col-md-4 labelToggle signupEmail">
+	                           <label for=email_signup>Email Address*</label>
+	                           <input type=email id=email_signup name=email placeholder="ex. yourname@email.com" required class="formField labelToggle"></div>
+	                           <div class="col col-12 col-md-2 labelToggle signupZip">
+	                            <label for=zip_signup>Zip Code*</label>
+	                            <input type=text id=zip_signup name=zipcode placeholder=12345 required class="formField labelToggle"></div>
+	                            <div class="col col-12 col-md-2 signupBtn">
+	                             <button type=submit class="button blue">I'm In</button>
+	                            </div>
+	                           </form>
+	                          </div>
+	                         </section>
+	                         <section id=shop>
+	                          <div class=container>
+	                           <div class="row d-flex">
+	                            <div class="col-12 col-md-6">
+	                             <img src=/img/store-product.png alt="Official Lauren Boebert Merch"></div>
+	                             <div class="col-12 col-md-6">
+	                              <h2>Shop Official Lauren Boebert Merchandise</h2>
+	                              <p>Show off your support for the Lauren Boebert campaign with limited edition merchandise!</p>
+	                              <a href=https://secure.winred.com/lauren-boebert-for-congress/storefront/ target=_blank class=button>Shop Now &#8250;</a>
+	                             </div>
+	                            </div>
+	                           </div>
+	                          </section>
+	                          <section id=lauren-message>
+	                           <div class=container data-aos=fade-down>
+	                            <div class="row justify-content-center">
+	                             <div class="col col-12 col-sm-12 col-md-10 col-lg-8 text-center">
+	                              <div class=messageTxt>“Heading to Congress to Drain the Swamp, stand up for 
+	                               <strong>our rights</strong>, and tell all the left-wing lunatics that we don’t want more government control. 
+	                               <strong class=text-highlight>We want our freedom!”</strong>
+	                              </div>
+	                              <div class=messageSign>
+	                               <img src=/img/Signatures_black.png alt="Lauren Boebert"></div>
+	                               <div class=signName>Congresswoman Lauren Boebert</div>
+	                               <div class=signNameTag>Colorado's 3rd congressional district</div>
+	                               <a href=/download/Lauren_Boebert_Contract.pdf target=_blank class=button>Read Lauren's Contract With Colorado</a>
+	                              </div>
+	                             </div>
+	                            </div>
+	                           </section>
+	                           <footer>
+	                            <div class="container text-center">
+	                             <div id=footerLogo>
+	                              <a href=/>
+	                              <img src=/img/logo.svg alt="Lauren Boebert Logo"></a>
+	                             </div>
+	                             <div id=footerDonate>
+	                              <a href=/donate class="button big">Donate</a>
+	                             </div>
+	                             <div id=footerSocial>
+	                              <ul class=social-share>
+	                               <li class=social>
+	                                <a href=http://facebook.com/laurenboebert target=_blank>
+	                                 <i class="fab fa-facebook" aria-hidden=true title="facebook link"></i>
+	                                 <span class=sr-only>Facebook</span>
+	                                </a>
+	                               </li>
+	                               <li class=social>
+	                                <a href=http://twitter.com/laurenboebert target=_blank>
+	                                 <i class="fab fa-twitter" aria-hidden=true title="twitter link"></i>
+	                                 <span class=sr-only>Twitter</span>
+	                                </a>
+	                               </li>
+	                               <li class=social>
+	                                <a href=https://www.instagram.com/laurenboebert/ target=_blank>
+	                                 <i class="fab fa-instagram" aria-hidden=true title="instagram link"></i>
+	                                 <span class=sr-only>Instagram</span>
+	                                </a>
+	                               </li>
+	                              </ul>
+	                             </div>
+	                             <div id=footerNav>
+	                              <ul>
+	                               <li class="menu-item current-menu-item">
+	                                <a title=Home href=/>Home
+	                               </a>
+	                              </li>
+	                              <li class=menu-item>
+	                               <a title="About Lauren" href=/about/>About Lauren
+	                              </a>
+	                             </li>
+	                             <li class=menu-item>
+	                              <a title=News href=/news/>News
+	                             </a>
+	                            </li>
+	                            <li class=menu-item>
+	                             <a title=Media href=/media/>Media
+	                            </a>
+	                           </li>
+	                           <li class=menu-item>
+	                            <a title="Get Involved" href=/get-involved/>Get Involved
+	                           </a>
+	                          </li>
+	                          <li class=menu-item>
+	                           <a title=Pledge href=/download/lauren_boebert_contract.pdf>Pledge</a>
+	                          </li>
+	                          <li class=menu-item>
+	                           <a title=store href=https://secure.winred.com/lauren-boebert-for-congress/storefront/>store
+	                          </a>
+	                         </li>
+	                         <li class=menu-item>
+	                          <a title=Contact href=/contact/>Contact
+	                         </a>
+	                        </li>
+	                       </ul>
+	                      </div>
+	                      <div class=row>
+	                       <div class="col-12 text-center">
+	                        <p class=small>
+	                         <b>Lauren Boebert for Congress</b>
+	                         <br>PO Box 752
+	                          <br>Rifle, CO 81650</p>
+	                         </div>
+	                        </div>
+	                        <div id=paidfor>Paid for By Lauren Boebert for Congress. Approved by Lauren Boebert.</div>
+	                        <div id=copyright>copyright 
+	                         <script type=text/javascript>document.write(new Date().getFullYear());</script>Lauren Boebert for Congress, All Rights Reserved. | 
+	                         <a href=/pages/privacy>Privacy Policy</a>
+	                        </div>
+	                       </div>
+	                      </footer>
+	                      <div id=lightbox class=text-center>
+	                       <a href=https://secure.winred.com/lauren-boebert-for-congress/support-lauren-re-election-2022-donate target=_blank>
+	                        <img src=/img/lightbox.png></a>
+	                        <a href=https://secure.winred.com/lauren-boebert-for-congress/support-lauren-re-election-2022-donate target=_blank class=button>Make a Donation</a>
+	                       </div>
+	                       <script src=//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js></script>
+	                       <script type=text/javascript src=/js/plugins.min.js></script>
+	                       <script type=text/javascript src=https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.js></script>
+	                       <script type=text/javascript src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js></script>
+	                       <script type=text/javascript src=https://cdn.jsdelivr.net/jquery.lazyload/1.8.4/jquery.lazyload.js></script>
+	                       <script src=https://cdnjs.cloudflare.com/ajax/libs/fitvids/1.2.0/jquery.fitvids.min.js></script>
+	                       <script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js></script>
+	                       <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css referrerpolicy=no-referrer>
+	                        <script>$('.labelToggle input, .labelToggle textarea, .labelToggle select').on("focus change keyup blur input",function(){$(this).parent().addClass("toggle-label");});AOS.init({easing:'ease-out-cubic',duration:1500,mirror:false,once:true});</script>
+	                        <script>$('.open-popup-link').magnificPopup({type:'inline',midClick:true,removalDelay:300,mainClass:'mfp-fade'});</script>
+	                        <script>var queryForm=function(e){var t=!(!e||!e.reset)&&e.reset,n=window.location.toString().split("?");if(n.length>1){var o=n[1].split("&");for(s in o){var r=o[s].split("=");(t||null===sessionStorage.getItem(r[0]))&&sessionStorage.setItem(r[0],decodeURIComponent(r[1]))}}for(var i=document.querySelectorAll("input[type=hidden], input[type=text]"),s=0;s
+	                         <i.length;s++){var a=sessionStorage.getItem(i[s].name);a&&(document.getElementsByName(i[s].name)[0].value=a)}};setTimeout(function(){queryForm()},3e3);</script>
+	                          <script>$(document).ready(function(){$(".phone").keypress(function(e){if(e.which!=8&&e.which!=0&&(e.which
+	                           <48||e.which>57)){return false;}
+var curchr=this.value.length;var curval=$(this).val();if(curchr==3&&curval.indexOf("(")
+	                            <=-1){$(this).val("("+curval+")"+"-");}else if(curchr==4&&curval.indexOf("(")>-1){$(this).val(curval+")-");}else if(curchr==5&&curval.indexOf(")")>-1){$(this).val(curval+"-");}else if(curchr==9){$(this).val(curval+"-");$(this).attr('maxlength','14');}});});</script>
+	                            <script>$(document).ready(function(){$('html').fitVids();});</script>
+	                            <script>if(window.netlifyIdentity){window.netlifyIdentity.on("init",user=>{if(!user){window.netlifyIdentity.on("login",()=>{document.location.href="/admin/";});}});}</script>
+	                           </body>
+	                          </html>
